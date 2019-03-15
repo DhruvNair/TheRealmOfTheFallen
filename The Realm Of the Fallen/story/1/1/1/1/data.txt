@@ -1,0 +1,6 @@
+label
+"Oh really, I wouldn't be so confident if I were you. To my knowledge, she plays pretty good. Your smartass comments won't save you kid", he mumbles, as he heads out towards the shore. "See you later punk", he shouts as he disappears into the woods.
+stop
+button1
+Next
+stop

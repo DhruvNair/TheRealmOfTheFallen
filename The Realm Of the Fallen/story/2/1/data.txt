@@ -1,0 +1,15 @@
+label
+"I haven't seen my brother for around 2 years now. I wonder how he is now.", you think to yourself.
+Every week, you go out to get firewood for your little house. Every month, your brother sends you and your mother some money off of his earnings. He works as a freelancer, travelling about from town to town. He sends the money via a messenger, his childhood friend who kept in touch with him after you left your village and now he visits your family often with the supplies your brother sends.
+Life has become highly monotonous. The only relief you get now and then is when you pass through an orc village called DaggerFord on your way to get firewood and water and other necessary things from the forest. 
+It is a small village, only about two miles wide, heavily packed with nearly 1200 residents, all living in stone cottages. You often wonder about orcs and their obsession with stones. The village is sorrounded by forests and dotted with numerous trees. It is sustained by a small lake towards the east and an ocean towards the west. This is just a small mining village and the people are peaceful here. You come here often to :
+stop
+button1
+Go to the archery stands in the local street stalls
+stop
+button2
+Work in the mines as a part-time job
+stop
+button3
+Sneak into a tavern to gamble
+stop

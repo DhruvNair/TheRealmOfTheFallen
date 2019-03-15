@@ -1,0 +1,5 @@
+#health++
+#health++
+label
+It was a good thing that Igurg's father was a bladesmith. Or you wouldn't have had the opportunity to train with the longsword as you did. It is, afterall very expensive in the city markets, as you've heard. It is said that all the knights of the realm have to have to have exceptional skills in weilding a longsword. On your 13th birthday, Igurg's father gifted you your own longsword.You've been taking care of it ever since. You usually leave it at Igurg's house and practice whenever you come here.
+stop

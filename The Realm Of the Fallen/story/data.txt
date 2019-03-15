@@ -1,0 +1,14 @@
+label
+The rain hasn't stopped. It has been over a week now. 
+"I still remember. You were born during a rain like this. Even fiercer. It was almost like the Gods were weeping." 
+And then started the severe coughing again. 
+Mother looked paler with each passing day. She hadn't lost her usual cheerfulness though.  
+It has been over a year now, since she got diagnosed with this disease. Her body has become as fragile as it can get.
+"I wish I could see your brother for the last time", she said with a grave expression on her face reflected by the flames of the burning fire.
+stop
+button1
+"Don't talk about him, he shouldn't have left a time like this."
+stop
+button2
+"He couldn't have known about you. He went to work to that village for us."
+stop

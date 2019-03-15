@@ -1,0 +1,5 @@
+#agility++
+#health++
+label
+Unlike most people you always thought that the war scythe was the perfect melee weapon as it had both offensive and defensive uses. It is said that it is the primary weapon used by ghouls and well, nobody messes with them. The only disadvantage in using it is the heavy weight but you believe that a skilled enough user won't have that problem. therefore you've been honing your skills ever since you were little. The variant of the scythe that you used was called the Rhomphaia, which needed combined strength and speed skills to wield.
+stop

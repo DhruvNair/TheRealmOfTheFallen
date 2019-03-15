@@ -1,0 +1,22 @@
+<FloatLayout>
+<Label>:
+	font_name : "Myfont"
+	halign : 'center'
+	valign : 'middle'
+	height: self.texture_size[1]
+	font_size : .05*root.width
+	text_size: self.width, None
+<LargeButton>:
+	font_name : "Myfont"
+	halign : 'center'
+	valign : 'middle'
+	font_size : .60 * root.height
+<SmallButton>:
+	font_name : "Myfont"
+	halign : 'center'
+	valign : 'middle'
+	font_size : .45 * root.width
+<TextInput>:
+	font_name : "Myfont"
+	padding_x : [self.center[0] - 80 - self._get_text_width(max(self._lines, key=len), self.tab_width, self._label_cached) /2.0,0] if self.text else [self.center[0] - 80, 0]
+	font_size : .85 * root.height

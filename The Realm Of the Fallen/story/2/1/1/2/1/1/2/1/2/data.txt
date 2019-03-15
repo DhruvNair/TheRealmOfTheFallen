@@ -1,0 +1,5 @@
+#wisdom++
+#wisdom++
+label
+One would say that a spear is just a sort of pointy stick. But you know that it's much more than that. Ever since you were a child, you were fascinated by the stories of the various legendary warriors and gods who wielded the spear to achieve great feats. In many communities, it is even called the "king of weapons". Be it Indra's bolt of lightning or the Gungnir, forged personally by the sons of Ivaldi, the spear has always been of immense significance. There weren't many skilled warriors for you to test out this skill with here in this village, but you believe you've gotten pretty well versed with it.
+stop

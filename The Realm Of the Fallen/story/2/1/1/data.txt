@@ -1,0 +1,15 @@
+label
+You enter through the east gate of the village, it's the shortest one to the market. You see Kruger on the way, he greets you as you pass by. Kruger is a local fisher who lives near the lake. You've been coming here for a lot of years so he knows you pretty well. He was just heading out and was gathering up his supplies for his expedition today. 
+"Where are you headed to, kid?"
+
+"You know, just the usual."
+
+"I hear you've got some competition now.", he remarked, grinning through his half broken fangs. From what you've heard, he . His version of the story is quite different though. He swears he encountered the kraken once while fishing in the Alderian waters. His little fishing boat got destroyed and he was thrown into a rock by the mighty kraken. He complained for a long time  about how he had to work in the mines for a while to raise money to build a new boat.
+"What do you mean?", you asked in a confused manner. Having finished the packing, he picks up the storage containers, and puts them on his shoulders; his burly green physique resembling that of the royal guards you've seen in picture books. He comes closer and reiterates what he said in a mocking tone, only this time adding details about a human girl who he claims has broken your record.
+stop
+button1
+"You sure are a gossipmonger. As for the record, I'll make sure that it still has my name on it."
+stop
+button2
+"Woah, a human girl, that's a rare sight around these areas, don't you think?"
+stop

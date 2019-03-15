@@ -1,0 +1,6 @@
+label
+"I know, but I just wanted to see him."
+stop
+button1
+Next
+stop

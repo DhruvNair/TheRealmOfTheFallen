@@ -1,0 +1,5 @@
+#agility++
+#agility++
+label
+The weapon of the Chotuko Empire in the south of Dusthelm rose to prominence in the Muromachi period. You were always intrigued by the form of martial arts used by the warriors of that kingdom. You read a lot about it in your childhood. Therefore, when you got a chance to learn that, you didn't think twice. You found a teacher in Daggerford who was a veteran fighter and a skilled martial artist. He agreed to train you in the art of wielding a katana and you were under his tutelage up until he moved out of the village.
+stop

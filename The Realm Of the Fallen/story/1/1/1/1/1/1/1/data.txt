@@ -1,0 +1,7 @@
+label
+When one sees a race of such diverse people stuffed into a little space they call the marketplace, being fascinated can't be helped. This place is important to you as well because this is where you met one of your only friends, an orc named Igurg.
+stop
+button1
+Next
+stop
+

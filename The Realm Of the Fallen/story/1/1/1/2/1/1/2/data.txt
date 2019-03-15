@@ -1,0 +1,8 @@
+label
+"How can large creatures like orcs live in such a congested place, they have no sense of living", you think to yourself everytime you come here.
+"I swear to god if it wasn't for the archery stands, I would never set foot in this godforsaken place", you cross the street, mumbling to yourself. Well, everytime you come here, this street does bring back old memories. You met your childhood friend, Igurg on these streets as a kid.
+stop
+button1
+Next
+stop
+

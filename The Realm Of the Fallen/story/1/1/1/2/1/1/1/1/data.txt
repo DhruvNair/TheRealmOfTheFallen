@@ -1,0 +1,18 @@
+label
+You move on towards the stand, reminiscing the past. For a small orc village, the marketplace is quite diverse. On the left hand side you can smell the Sandroxina Rolls being made. They are a very rare delicacy made from the kidneys of Peruvian rams fried in groundnut oil wrapped up like the tentacles of the Sandroxina Squids, hence the name. These are found only in orc villages. It is mainly so because the Peruvian rams, unlike other common rams need to be charmed first in order to be caught and the charming spell happens to be in native orcan language. One could even say that almost half of the foreign economy of the orc villages comes from the export of the meat. On your right, you could see all sorts of street performers and some types of musical equipments being sold in stalls and black and blue. Daggerford is full of orthodox orcs who cling to the traditional principles of music, therefore one would not find modern musical instruments like the Sevina or the Borkshire. Most of the people here see you often, either with Igurg or just by yourself, so they wave at you as you pass by. Being a human child, you are no less of a spectacle to them as they are to you. You walk by a crossroads junction and turn left. This is a longer way to the archery stands. You prefer this to avoid going through the vampire market. The blood of vampire bats is sold there. Now, while it is of no consequence to a normal orc, the smell of that blood is intolerable to a human. This blood is fed to orc infants as nutrition, similar to breast milk in case of humans. Therefore, you go through the Tarvel street, named after the greatest orcan warrior that ever lived. Legend says that he defeated an army of a thousand chimeras and also went toe to toe with a Lernaean Hydra once. Needless to say, it was a weapons market.
+
+Your mother was strictly against even the idea of you yeilding any sort of weapon but you used to sneak around here with Igurg and some of his buddies to practice fighting. Your weapon of choice was:
+
+stop
+button1
+Longsword
+stop
+button2
+Spear
+stop
+button3
+Katanna
+stop
+button4
+Scythe     
+stop

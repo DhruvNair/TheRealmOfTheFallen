@@ -1,0 +1,6 @@
+label
+"You shouldn't say like that. He went out for our sake. Moreover, he could not have known about my illness."
+stop
+button1
+Next
+stop

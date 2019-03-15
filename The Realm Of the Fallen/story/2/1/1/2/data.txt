@@ -1,0 +1,8 @@
+label
+"You shouldn't be thinking about girls when your title's in danger, kid. She just showed up last week and started playing.She broke your record in no time. I never thought that somebody could play better than you, but here we are! Nobody knows where she came from. You gotta be careful."
+
+"See you later punk", he shouts as he disappears into the woods.
+stop
+button1
+Next
+stop
